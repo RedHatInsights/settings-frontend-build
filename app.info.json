@@ -1,11 +1,11 @@
 {
   "app_name": "settings",
-  "src_hash": "37e69ab6be7a9e4418db9131c43a3e0ef4688f59",
+  "src_hash": "20e0879af10eefd9532c489e9b16df2c83239ebd",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "28",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/settings-frontend/builds/607752843"
+    "build_number": "39",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/settings-frontend/builds/608788984"
   }
 }
