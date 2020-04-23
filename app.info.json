@@ -1,11 +1,11 @@
 {
   "app_name": "applications",
-  "src_hash": "9744f08f8e7d61883043ab41dc3db33667fdb91a",
+  "src_hash": "e87647170b9fd7e39d7f4e10c1fe84b76addcd04",
   "src_tag": "",
   "src_branch": "master-stable",
   "travis": {
     "event_type": "push",
-    "build_number": "506",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/settings-frontend/builds/675495663"
+    "build_number": "529",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/settings-frontend/builds/678486879"
   }
 }
