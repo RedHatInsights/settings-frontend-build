@@ -1,0 +1,1 @@
+(self.webpackChunksettings_frontend=self.webpackChunksettings_frontend||[]).push([[665],{14665:(t,e,n)=>{"use strict";function s(t,e){return(s=Object.setPrototypeOf||function(t,e){return t.__proto__=e,t})(t,e)}n.d(e,{Z:()=>s})}}]);
