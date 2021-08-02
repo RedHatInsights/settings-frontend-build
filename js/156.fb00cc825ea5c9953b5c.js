@@ -1,2 +1,2 @@
 (self.webpackChunksettings_frontend=self.webpackChunksettings_frontend||[]).push([[156],{96156:(e,n,t)=>{"use strict";function r(e,n,t){return n in e?Object.defineProperty(e,n,{value:t,enumerable:!0,configurable:!0,writable:!0}):e[n]=t,e}t.d(n,{Z:()=>r})}}]);
-//# sourceMappingURL=../sourcemaps/156.fc822b2c41dcadcc3a6f.js.map
+//# sourceMappingURL=../sourcemaps/156.86c194623be0813a88d8.js.map
