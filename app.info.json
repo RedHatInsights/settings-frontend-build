@@ -1,12 +1,12 @@
 {
   "app_name": "applications",
-  "src_hash": "a9407bb95e8c6c0e143931d373924ba527a83788",
+  "src_hash": "04093c637b1efa75a7d9725de22ecc620ea7c462",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.132.2","@patternfly/react-core@4.152.4","@patternfly/react-table@4.29.58"],
   "travis": {
     "event_type": "push",
-    "build_number": "1356",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/settings-frontend/builds/240103584"
+    "build_number": "1359",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/settings-frontend/builds/240146307"
   }
 }
