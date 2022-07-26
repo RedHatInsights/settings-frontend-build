@@ -1,10 +1,11 @@
 {
     "applications": {
         "entry": [
-            "/beta/apps/applications/applications.2f8ac086609dc4a67c2c.js"
+            "/beta/apps/applications/applications.1658835171585.d3acd8f2720f1d126c26.js"
         ],
         "modules": [
-            "/beta/apps/applications/js/412.06cbdd98c4541c62bd26.js"
+            "/beta/apps/applications/js/43.1658835171521.d3acd8f2720f1d126c26.js",
+            "/beta/apps/applications/css/43.0761bae4aa0b7af32924.css"
         ]
     }
 }
