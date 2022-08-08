@@ -1,10 +1,11 @@
 {
     "applications": {
         "entry": [
-            "/apps/applications/applications.90d1259ce8934df36ed1.js"
+            "/apps/applications/applications.1659946514887.6253baa03694ed700454.js"
         ],
         "modules": [
-            "/apps/applications/js/412.a0d16b229f0373a29ef9.js"
+            "/apps/applications/js/43.1659946514814.6253baa03694ed700454.js",
+            "/apps/applications/css/43.0761bae4aa0b7af32924.css"
         ]
     }
 }
