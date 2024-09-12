@@ -1,11 +1,1 @@
-{
-    "applications": {
-        "entry": [
-            "/beta/apps/applications/applications.44327a3a779ad58b00ba.js"
-        ],
-        "modules": [
-            "/beta/apps/applications/js/347.44327a3a779ad58b00ba.js",
-            "/beta/apps/applications/css/347.0761bae4aa0b7af32924.css"
-        ]
-    }
-}
+{"name":"applications","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/apps/applications/","loadScripts":["applications.209ea5a789454364c941.js"],"buildHash":"3e8d58406a43c5f81ec3b595f8e75833"}
